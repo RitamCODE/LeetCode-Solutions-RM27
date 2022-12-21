@@ -1,4 +1,5 @@
 class Solution {
+    //this is my approach
     public void sortColors(int[] nums) {
         // maps which maps each with their frequencies
         // we can also do this using normal hashing by taking an auxiliary array without using collections framework
