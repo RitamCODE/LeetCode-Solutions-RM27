@@ -50,3 +50,9 @@ class Solution {
     return s.length()-c;// returns the difference of elements which is basically the number of elements to be replaced
     }
 }
+
+// // similar questions :
+// minimum number of steps to make 2 strings anagramn II
+// determine if two strings are close
+// tweet counts per frequency
+
